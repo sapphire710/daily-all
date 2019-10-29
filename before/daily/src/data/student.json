@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "username": "祁玉婷",
+    "password": "qyt000",
+    "age": 21,
+    "num": 20191022,
+    "classes": "wuif1907-2",
+    "sex": "女",
+    "tell": 12345678965
+  },
+  {
+    "id": 2,
+    "username": "贾争",
+    "password": "jz000",
+    "age": 22,
+    "num": 20191021,
+    "classes": "wuif1907-3",
+    "sex": "男",
+    "tell": 12345678965
+  }
+]
